@@ -1,2 +1,2 @@
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
+https://github-profile-trophy.vercel.app/?username=14bhuvi&theme=buddhism
 
